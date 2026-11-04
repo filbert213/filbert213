@@ -39,6 +39,4 @@ I'm also learning through Kodland lessons, where I continue to develop my unders
 
 ## 📊 &nbsp;GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filbert213&show_icons=true&theme=dark&bg_color=09090b&border_color=27272a&title_color=3496D3&icon_color=3496D3&text_color=f4f4f5)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=filbert213&theme=dark&background=09090b&border=27272a&ring=3496D3&fire=3496D3&currStreakLabel=3496D3&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a)
