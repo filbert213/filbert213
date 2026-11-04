@@ -2,9 +2,11 @@
 
 # 👋 &nbsp;Hi there
 
-I'm Filbert, a self-taught senior full-stack developer in New Zealand with 17 years of shipping software for award-winning campaigns, NZ enterprises and email marketing. I run [Sudolabs](https://sudolabs.nz), building custom web apps and automations.
+Hey, I'm Filbert, a programming student from Indonesia, currently learning Python and exploring the world of software development.
 
-These days most of my open-source work is tooling for AI agents: keeping them running, letting them reach you, and keeping the bots out of your repos. Outside of that it's home labs, home automation and 3D printing.
+Most of my coding journey so far has been focused on learning through projects, experimenting with different technologies, and improving my programming skills. I've worked on school projects and personal projects involving HTML, C++, and Python.
+
+I'm also learning through Kodland lessons, where I continue to develop my understanding of programming and problem-solving. Some of my projects include a personal portfolio, a narcotics awareness website, and EcoPath AI (a climate-focused website that explores the use of AI).
 
 &nbsp;
 
@@ -12,34 +14,31 @@ These days most of my open-source work is tooling for AI agents: keeping them ru
 
 | Project | What it does |
 | --- | --- |
-| 🔥 [**Pilot Light**](https://github.com/CyrisXD/pilot-light) | Keep your MacBook awake with the lid closed so AI agents keep working, on under a third of the power. [pilotlight.sudolabs.nz](https://pilotlight.sudolabs.nz) |
-| 📬 [**agent-notify**](https://github.com/CyrisXD/agent-notify) | Let Claude, ChatGPT, Grok Bot and any MCP agent email you when something needs your attention. Free, private, one-click deploy to Cloudflare Workers. |
-| 🛡️ [**block-clankers**](https://github.com/CyrisXD/block-clankers) | Auto-block known spam bot accounts from your GitHub account and every org you admin. |
-
-🤝 &nbsp;I also contribute to [**Rakazo**](https://github.com/CyrisXD/rakazo), an open-source Grok Bot alternative where you choose your own model and sandbox. [rakazo.com](https://rakazo.com)
+| 🌱 [**EcoPath AI**](#) | An AI-powered climate website that helps users understand their environmental impact, analyze their lifestyle, and discover ways to live more sustainably. |
+| 💊 [**Dangers of Narcotics**](#) | An educational website about narcotics, their effects, and the dangers of drug abuse. |
+| 💻 [**Personal Portfolio**](#) | My personal website to showcase my programming journey, projects, and things I've been learning. |
+| 🤖 [**Discord Pokémon Bot**](#) | A Discord bot built with Python that lets users interact with Pokémon through commands and interactive features. |
 
 &nbsp;
 
-## ✏️ &nbsp;Latest from the blog
+## 📚 &nbsp;What I'm learning
 
-<!-- BLOG-POST-LIST:START -->
-- [Pilot Light: Keep Your Agents Running With the MacBook Lid Closed](https://sudolabs.nz/blog/pilot-light-macbook-lid-closed-agents)
-- [Reverse Engineer Everything: the free alternatives the AI clone wave has produced so far](https://sudolabs.nz/blog/reverse-engineer-everything-free-alternatives-ai-clone-wave)
-- [Agent-notify: Let Your AI Agents Email You When It Matters](https://sudolabs.nz/blog/agent-notify-let-your-ai-agents-email-you-when-it-matters)
-- [How to connect the Hermes Desktop App to a Remote Hermes Backend &lpar;the clean way&rpar;](https://sudolabs.nz/blog/how-to-connect-the-hermes-desktop-app-to-a-remote-hermes-backend-the-clean-way)
-- [Block Clankers: A GitHub Action That Auto-Blocks Bot PR Spam](https://sudolabs.nz/blog/block-clankers-github-actions)
-<!-- BLOG-POST-LIST:END -->
+- Python – Learning programming fundamentals and building small applications.
+- HTML & CSS – Creating and designing websites.
+- C++ – Exploring programming logic and problem-solving.
+- Flask – Learning how to build web applications with Python.
+- AI Integration – Experimenting with AI tools like Google Gemini.
 
 &nbsp;
 
 ## 🧰 &nbsp;My toolbox
 
-[![My toolbox](https://skillicons.dev/icons?i=ts,js,vue,nodejs,adonis,astro,react,nextjs,tailwind,swift,python,postgres,docker,cloudflare,linux,githubactions&perline=8)](https://skillicons.dev)
+[![My toolbox](https://skillicons.dev/icons?i=python,html,css,cpp,flask,bootstrap,git,github,vscode&perline=8)](https://skillicons.dev)
 
 &nbsp;
 
-## 📊 &nbsp;Stats
+## 📊 &nbsp;GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=CyrisXD&theme=dark&background=09090b&border=27272a&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filbert213&show_icons=true&theme=dark&bg_color=09090b&border_color=27272a&title_color=3496D3&icon_color=3496D3&text_color=f4f4f5)
 
-<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a> · [sudolabs.nz](https://sudolabs.nz)
+![GitHub Streak](https://streak-stats.demolab.com/?user=filbert213&theme=dark&background=09090b&border=27272a&ring=3496D3&fire=3496D3&currStreakLabel=3496D3&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a)
