@@ -72,7 +72,7 @@
     <text x="48" y="222" fill="#71717a">~</text>
     <text x="66" y="222" fill="#3496D3">❯</text>
     <g fill="#f4f4f5">
-      <text class="line" x="92" y="222">school proyects<tspan class="cursor" fill="#3496D3"> ▌</tspan></text>
+      <text class="line" x="92" y="222">school projects<tspan class="cursor" fill="#3496D3"> ▌</tspan></text>
       <text class="line l2" x="92" y="222">kodland lessons<tspan class="cursor" fill="#3496D3"> ▌</tspan></text>
       <text class="line l3" x="92" y="222">html, c++ &amp; python<tspan class="cursor" fill="#3496D3"> ▌</tspan></text>
     </g>
