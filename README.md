@@ -33,7 +33,7 @@ I'm also learning through Kodland lessons, where I continue to develop my unders
 
 ## 🧰 &nbsp;My toolbox
 
-[![My toolbox](https://skillicons.dev/icons?i=python,html,css,cpp,flask,bootstrap,git,github,vscode&perline=8)](https://skillicons.dev)
+[![My toolbox](https://skillicons.dev/icons?i=python,html,css,cpp,flask,bootstrap,vscode&perline=8)](https://skillicons.dev)
 
 &nbsp;
 
